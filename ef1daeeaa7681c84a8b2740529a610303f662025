@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "6a1b0358_2143351c",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:48:30Z",
+      "side": 1,
+      "message": "Для проверки пиши тесты. А это удали.",
+      "parentUuid": "545209c5_aca9732f",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 21
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "2c1ef04d_7e741dc3",
         "filename": "main.cpp",
         "patchSetId": 1
@@ -131,6 +155,30 @@
       "side": 1,
       "message": "под слово.",
       "parentUuid": "95064d9e_8bbf4a73",
+      "range": {
+        "startLine": 9,
+        "startChar": 5,
+        "endLine": 9,
+        "endChar": 16
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d1ec14f7_64bb9b29",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:48:30Z",
+      "side": 1,
+      "message": "А динамически выделить?",
+      "parentUuid": "707fd848_6c0ec5a4",
       "range": {
         "startLine": 9,
         "startChar": 5,
@@ -471,6 +519,30 @@
     },
     {
       "key": {
+        "uuid": "11906c05_ca2ae9a1",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:48:30Z",
+      "side": 1,
+      "message": "Не понятнее т.к. очень просто запустаться особенно в таких конструкциях \u0027\"\u0027.",
+      "parentUuid": "e917d187_72979295",
+      "range": {
+        "startLine": 40,
+        "startChar": 1,
+        "endLine": 41,
+        "endChar": 1
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba7a7328_3e1bd199",
         "filename": "main.cpp",
         "patchSetId": 1
@@ -506,6 +578,30 @@
       "side": 1,
       "message": "тогда через return возврат ошибки?",
       "parentUuid": "ba7a7328_3e1bd199",
+      "range": {
+        "startLine": 45,
+        "startChar": 3,
+        "endLine": 45,
+        "endChar": 30
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "19a612a2_185ea485",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:48:30Z",
+      "side": 1,
+      "message": "Возвращай указатель на ошибочный сивол в иходной строке. В случае успеха NULL.",
+      "parentUuid": "1f72f9d1_e7a1f799",
       "range": {
         "startLine": 45,
         "startChar": 3,
