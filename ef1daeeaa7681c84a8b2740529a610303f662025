@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "545209c5_aca9732f",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "\u003e Ни каких дефайнов.\n\nЭто для проверки потом удалю",
+      "parentUuid": "8ff4eee7_a5e40f87",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 21
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "2c1ef04d_7e741dc3",
         "filename": "main.cpp",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2017-10-02T15:24:06Z",
       "side": 1,
       "message": "Для таких отступов используй пробелы т.к. пробелы всегда одного отступа, а табуляции могут быть 1 пробел, 2 или 4, или 8.",
+      "range": {
+        "startLine": 7,
+        "startChar": 12,
+        "endLine": 7,
+        "endChar": 16
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "91041acc_15865786",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2c1ef04d_7e741dc3",
       "range": {
         "startLine": 7,
         "startChar": 12,
@@ -71,6 +119,53 @@
     },
     {
       "key": {
+        "uuid": "707fd848_6c0ec5a4",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "под слово.",
+      "parentUuid": "95064d9e_8bbf4a73",
+      "range": {
+        "startLine": 9,
+        "startChar": 5,
+        "endLine": 9,
+        "endChar": 16
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "53aa05d9_6e1bfe94",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "Вот под описание. ТАк как не указано сколько мак. места",
+      "range": {
+        "startLine": 10,
+        "startChar": 1,
+        "endLine": 10,
+        "endChar": 13
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "8eb07928_2ad9298f",
         "filename": "main.cpp",
         "patchSetId": 1
@@ -94,6 +189,30 @@
     },
     {
       "key": {
+        "uuid": "6b2cc9b6_747a0e55",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8eb07928_2ad9298f",
+      "range": {
+        "startLine": 13,
+        "startChar": 2,
+        "endLine": 13,
+        "endChar": 10
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "158665d1_46c49596",
         "filename": "main.cpp",
         "patchSetId": 1
@@ -105,6 +224,30 @@
       "writtenOn": "2017-10-02T15:24:06Z",
       "side": 1,
       "message": "На пробелы заменить.",
+      "range": {
+        "startLine": 15,
+        "startChar": 17,
+        "endLine": 15,
+        "endChar": 19
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "679f97ac_eeb3cc90",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "158665d1_46c49596",
       "range": {
         "startLine": 15,
         "startChar": 17,
@@ -163,6 +306,30 @@
     },
     {
       "key": {
+        "uuid": "fb5572a9_181bc2fa",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "26de1e28_94cbb2fd",
+      "range": {
+        "startLine": 17,
+        "startChar": 31,
+        "endLine": 17,
+        "endChar": 40
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "b2fec737_e1727f7f",
         "filename": "main.cpp",
         "patchSetId": 1
@@ -174,6 +341,30 @@
       "writtenOn": "2017-10-02T15:24:06Z",
       "side": 1,
       "message": "Пробелы.",
+      "range": {
+        "startLine": 22,
+        "startChar": 18,
+        "endLine": 22,
+        "endChar": 24
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "69a14233_6efef948",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b2fec737_e1727f7f",
       "range": {
         "startLine": 22,
         "startChar": 18,
@@ -232,6 +423,54 @@
     },
     {
       "key": {
+        "uuid": "5f669ce7_dc9b5251",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "хз. сделал через stdlen",
+      "parentUuid": "4dded90a_bc879649",
+      "range": {
+        "startLine": 41,
+        "startChar": 16,
+        "endLine": 41,
+        "endChar": 20
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e917d187_72979295",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "так понятней что это массив спец символов а не хгя какае то",
+      "parentUuid": "467be7b4_51247883",
+      "range": {
+        "startLine": 40,
+        "startChar": 1,
+        "endLine": 41,
+        "endChar": 1
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba7a7328_3e1bd199",
         "filename": "main.cpp",
         "patchSetId": 1
@@ -243,6 +482,30 @@
       "writtenOn": "2017-10-02T15:24:06Z",
       "side": 1,
       "message": "С чего вдруг функция проверки что то выводит?",
+      "range": {
+        "startLine": 45,
+        "startChar": 3,
+        "endLine": 45,
+        "endChar": 30
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f72f9d1_e7a1f799",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "тогда через return возврат ошибки?",
+      "parentUuid": "ba7a7328_3e1bd199",
       "range": {
         "startLine": 45,
         "startChar": 3,
@@ -289,6 +552,30 @@
       "writtenOn": "2017-10-02T15:24:06Z",
       "side": 1,
       "message": "Выравнивание страдает",
+      "range": {
+        "startLine": 56,
+        "startChar": 0,
+        "endLine": 57,
+        "endChar": 7
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fe26c00_62ae5952",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1012125
+      },
+      "writtenOn": "2017-10-02T15:43:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e0eb5bc1_a28eacb6",
       "range": {
         "startLine": 56,
         "startChar": 0,
