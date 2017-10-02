@@ -1,0 +1,326 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8ff4eee7_a5e40f87",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Ни каких дефайнов.",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 21
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2c1ef04d_7e741dc3",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Для таких отступов используй пробелы т.к. пробелы всегда одного отступа, а табуляции могут быть 1 пробел, 2 или 4, или 8.",
+      "range": {
+        "startLine": 7,
+        "startChar": 12,
+        "endLine": 7,
+        "endChar": 16
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "95064d9e_8bbf4a73",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Это под описание? Или под слово?",
+      "range": {
+        "startLine": 9,
+        "startChar": 5,
+        "endLine": 9,
+        "endChar": 16
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "8eb07928_2ad9298f",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Это че за табуляции?",
+      "range": {
+        "startLine": 13,
+        "startChar": 2,
+        "endLine": 13,
+        "endChar": 10
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "158665d1_46c49596",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "На пробелы заменить.",
+      "range": {
+        "startLine": 15,
+        "startChar": 17,
+        "endLine": 15,
+        "endChar": 19
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "26de1e28_94cbb2fd",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Коментарии все выровнить надо.",
+      "range": {
+        "startLine": 17,
+        "startChar": 31,
+        "endLine": 17,
+        "endChar": 40
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "71acdb81_12469524",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Пробел лишний.",
+      "range": {
+        "startLine": 17,
+        "startChar": 18,
+        "endLine": 17,
+        "endChar": 22
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b2fec737_e1727f7f",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Пробелы.",
+      "range": {
+        "startLine": 22,
+        "startChar": 18,
+        "endLine": 22,
+        "endChar": 24
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "467be7b4_51247883",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Почему это не строка?",
+      "range": {
+        "startLine": 40,
+        "startChar": 1,
+        "endLine": 41,
+        "endChar": 1
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4dded90a_bc879649",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "почему не stdlen?",
+      "range": {
+        "startLine": 41,
+        "startChar": 16,
+        "endLine": 41,
+        "endChar": 20
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba7a7328_3e1bd199",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "С чего вдруг функция проверки что то выводит?",
+      "range": {
+        "startLine": 45,
+        "startChar": 3,
+        "endLine": 45,
+        "endChar": 30
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4f368a40_498e00e1",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "пробелы",
+      "range": {
+        "startLine": 51,
+        "startChar": 20,
+        "endLine": 51,
+        "endChar": 29
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e0eb5bc1_a28eacb6",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Выравнивание страдает",
+      "range": {
+        "startLine": 56,
+        "startChar": 0,
+        "endLine": 57,
+        "endChar": 7
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0f11a59c_d35b4a04",
+        "filename": "main.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-02T15:24:06Z",
+      "side": 1,
+      "message": "Пробел",
+      "range": {
+        "startLine": 67,
+        "startChar": 19,
+        "endLine": 67,
+        "endChar": 20
+      },
+      "revId": "ef1daeeaa7681c84a8b2740529a610303f662025",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
