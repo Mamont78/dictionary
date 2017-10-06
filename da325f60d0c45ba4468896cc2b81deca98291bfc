@@ -1,0 +1,526 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "807dc3f9_4326c345",
+        "filename": "Common.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Пробел.",
+      "range": {
+        "startLine": 2,
+        "startChar": 18,
+        "endLine": 2,
+        "endChar": 19
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "510e51c4_9f0f706f",
+        "filename": "Common.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Пробел.",
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1d11b061_bbfbcf1b",
+        "filename": "Common.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Почему -7? Это отдельный файл в котором нет никаих -1 или -2. С чего тут появилось -7?",
+      "range": {
+        "startLine": 16,
+        "startChar": 10,
+        "endLine": 16,
+        "endChar": 12
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "95488816_bacf63a3",
+        "filename": "Common.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Где return 0?",
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b6d74de4_3b05ed7c",
+        "filename": "Common.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "ПРобелы",
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "503913a7_615153b6",
+        "filename": "Common.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "В Си при успехе принято возвращать 0.",
+      "range": {
+        "startLine": 36,
+        "startChar": 2,
+        "endLine": 36,
+        "endChar": 11
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "729a8314_4d97b908",
+        "filename": "Common.h",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Съехал коометарий",
+      "range": {
+        "startLine": 4,
+        "startChar": 55,
+        "endLine": 4,
+        "endChar": 56
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ec3bf984_444c74f7",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Во всем файле проверь пробелы.",
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b66494d5_f9cbfdf1",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Такое везде удали.",
+      "range": {
+        "startLine": 9,
+        "startChar": 82,
+        "endLine": 9,
+        "endChar": 83
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a4001477_101360cc",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Вынеси в ENUM все коды ошибок",
+      "range": {
+        "startLine": 12,
+        "startChar": 9,
+        "endLine": 12,
+        "endChar": 11
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "09f3f427_0b46c826",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "А если память не выделилась?\nПРоверку нужно вначале делать.",
+      "range": {
+        "startLine": 23,
+        "startChar": 3,
+        "endLine": 23,
+        "endChar": 51
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffa26608_ef33714f",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Аналогично. Поменять местами.",
+      "range": {
+        "startLine": 36,
+        "startChar": 2,
+        "endLine": 40,
+        "endChar": 4
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5c43b634_dc3e1afe",
+        "filename": "Dictionary.h",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "пробел",
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "55fdec8f_ccbc8776",
+        "filename": "Words.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Эту функцию убрать из h файла.\nУ пользователя не должно быть к ней доступа. \nТолкьо  add_next_word",
+      "range": {
+        "startLine": 6,
+        "startChar": 19,
+        "endLine": 6,
+        "endChar": 58
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1344a016_c9f7c19a",
+        "filename": "Words.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "А проверку?",
+      "range": {
+        "startLine": 8,
+        "startChar": 1,
+        "endLine": 8,
+        "endChar": 67
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4858c2fa_7a25be4d",
+        "filename": "Words.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Делай согласованные названия. У тебя функция добавления в словарь add_Dictionary а в список add_next_word. Давай однообразно.",
+      "range": {
+        "startLine": 15,
+        "startChar": 3,
+        "endLine": 15,
+        "endChar": 17
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "82bf850e_f3df4924",
+        "filename": "Words.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "А проверку?",
+      "range": {
+        "startLine": 19,
+        "startChar": 2,
+        "endLine": 19,
+        "endChar": 29
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "898bc88d_269e396b",
+        "filename": "Words.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Фмгурные скобки добавь.",
+      "range": {
+        "startLine": 21,
+        "startChar": 6,
+        "endLine": 21,
+        "endChar": 41
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "43a08391_5eb07775",
+        "filename": "Words.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Ноль в случае успеха",
+      "range": {
+        "startLine": 22,
+        "startChar": 5,
+        "endLine": 22,
+        "endChar": 10
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e0894154_39044387",
+        "filename": "Words.h",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Где пробелы, где табуляция?",
+      "range": {
+        "startLine": 6,
+        "startChar": 11,
+        "endLine": 6,
+        "endChar": 12
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "54124c62_abd88a59",
+        "filename": "main.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Лишнее",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 18
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b1c42b43_61b18de2",
+        "filename": "tests/Common_test.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Отдного тестового значения маловато.\nВот так делаются наборы.\n\n\tstruct StringsForTests\n\t{\n\t\tStringsForTests( std::string const\u0026 value, std::string const\u0026 result )\n\t\t\t: value( value )\n\t\t\t, result( result )\n\t\t{}\n\n\t\tstd::string value;\n\t\tstd::string result;\n\t};\n\t\n\tclass NoramalizeTests\n\t\t: public ::testing::TestWithParam\u003cValuesOfAtoi\u003e\n\t{};\n\t\n\tINSTANTIATE_TEST_CASE_P( CommonTests, NoramalizeTests, ::testing::Values(\n\t\t\t\t\t StringsForTests( \"H\", \"h\" ),\n\t\t\t\t\t StringsForTests( \"Hqweasdf\", \"hqweasdf\" )\n\t\t\t\t\t ));\n\t\n\tTEST_P(NoramalizeTests, apper)\n\t{\n\tStringsForTests value \u003d GetParam();\n\tinput_word.word \u003d strdup(value.value.c_str());\n\tnormalization(\u0026input_word);\n\tEXPECT_STREQ(input_word.word, value.result.c_str() );\n\tfree(input_word.word);\n\t}",
+      "range": {
+        "startLine": 8,
+        "startChar": 1,
+        "endLine": 8,
+        "endChar": 33
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c1779b99_6a2e7fac",
+        "filename": "tests/Common_test.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "Во первых не скрещивай тесты.\nНормализацию проверяется отдельно.\nДругие функции отдельно",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 15,
+        "endChar": 23
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f76a5420_3522550a",
+        "filename": "tests/Dictionary_test.cpp",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-06T10:09:33Z",
+      "side": 1,
+      "message": "А где тест на то, что если например добавляется слово из 15 согласных, то сгенириется дерево у которого есть ветка из 15 листов в право?",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 1
+      },
+      "revId": "da325f60d0c45ba4468896cc2b81deca98291bfc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
