@@ -1,0 +1,326 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "31f5ead3_07a0ff79",
+        "filename": "Common.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "Это статичная константа.",
+      "range": {
+        "startLine": 11,
+        "startChar": 1,
+        "endLine": 11,
+        "endChar": 25
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "136766fd_056be244",
+        "filename": "Common.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "Давай не будем на каждом проходе цикла это считать.\nПосчитай один раз до цикла.",
+      "range": {
+        "startLine": 12,
+        "startChar": 27,
+        "endLine": 12,
+        "endChar": 53
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "0d4980ec_27eec433",
+        "filename": "Common.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "Почему -2? Эта функция ни где не возвращала -1.",
+      "range": {
+        "startLine": 39,
+        "startChar": 8,
+        "endLine": 39,
+        "endChar": 11
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e67289a4_e79e2832",
+        "filename": "Common.h",
+        "patchSetId": 5
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "Опять что то с выравниванием",
+      "range": {
+        "startLine": 5,
+        "startChar": 37,
+        "endLine": 5,
+        "endChar": 42
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba2b54bd_0c281381",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "Что то с буквами не то.",
+      "range": {
+        "startLine": 6,
+        "startChar": 29,
+        "endLine": 6,
+        "endChar": 39
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f48dba5b_8ceab228",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "путота...",
+      "range": {
+        "startLine": 11,
+        "startChar": 74,
+        "endLine": 11,
+        "endChar": 80
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b98e8258_7962035c",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "Желательно всегда основываться на переменных ,а не типах.\nsizeof( *unit-\u003eleft_ptr )\nТолько не попутай указатель и значение.",
+      "range": {
+        "startLine": 28,
+        "startChar": 33,
+        "endLine": 28,
+        "endChar": 51
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f53ef0ad_145e5348",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "0, а не NULL. Функция принимает int.",
+      "range": {
+        "startLine": 28,
+        "startChar": 26,
+        "endLine": 28,
+        "endChar": 31
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "2c744072_e6fc1dd3",
+        "filename": "Dictionary.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "Лишняя табуляция.",
+      "range": {
+        "startLine": 53,
+        "startChar": 2,
+        "endLine": 53,
+        "endChar": 3
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4166c900_e8f6dc67",
+        "filename": "Dictionary.h",
+        "patchSetId": 5
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "почему тут большая буква?",
+      "range": {
+        "startLine": 12,
+        "startChar": 8,
+        "endLine": 12,
+        "endChar": 9
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "96716fc9_6d05a7e2",
+        "filename": "Interface.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "А память выделить?",
+      "range": {
+        "startLine": 14,
+        "startChar": 9,
+        "endLine": 14,
+        "endChar": 20
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "cd42a3cb_cbb2037b",
+        "filename": "Words.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "Шикарный комментарий.",
+      "range": {
+        "startLine": 12,
+        "startChar": 14,
+        "endLine": 12,
+        "endChar": 34
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b06f1c5c_684e3ed3",
+        "filename": "Words.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "А проверить что память выделилась?",
+      "range": {
+        "startLine": 14,
+        "startChar": 1,
+        "endLine": 14,
+        "endChar": 68
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a1b1ea42_b85264b4",
+        "filename": "Words.cpp",
+        "patchSetId": 5
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1012126
+      },
+      "writtenOn": "2017-10-11T07:54:42Z",
+      "side": 1,
+      "message": "Это ты удалил память по элемент списка. А кто удалит память под слова внутри?",
+      "range": {
+        "startLine": 82,
+        "startChar": 1,
+        "endLine": 82,
+        "endChar": 21
+      },
+      "revId": "d50466a5d4b90af9dcfe77f4cea85673aa0690fa",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
